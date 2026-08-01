@@ -134,4 +134,4 @@ Add them to `.gitignore` before uploading the project to GitHub.
 
 Built as a hands-on AI and automation learning project.
 
-Special thanks to **Amjid Ali** for guidance and support.
+
