@@ -1,4 +1,4 @@
-#  Local AI Gmail Automation
+#   AI Gmail Automation
 
 > A private, local AI assistant that reads unread Gmail messages, summarizes them, identifies priorities and action items, and suggests reply drafts.
 
