@@ -1,0 +1,12 @@
+[
+    {
+        "from": "Maya <maya@example.com>",
+        "subject": "Project update needed by Friday",
+        "body": "Hi, could you send the latest project status and a short demo outline by Friday afternoon? Please include anything blocking the team."
+    },
+    {
+        "from": "Sam <sam@example.com>",
+        "subject": "Meeting request",
+        "body": "Are you free for a 20-minute meeting tomorrow to review our AI assistant ideas?"
+    }
+]
